@@ -82,6 +82,7 @@ function draw() {
 
   strokeWeight(2);
   stroke(15);
+  fill("red");
   ground.display();
   
   strokeWeight(2);
